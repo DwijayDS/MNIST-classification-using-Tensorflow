@@ -1,7 +1,6 @@
 # MNIST-classification-using-Tensorflow
 
---->Required Libraries
-
+-->Required Libraries
 1.Numpy
 2.Tensorflow
 3.Pandas
